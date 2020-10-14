@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/uddeshyatyagi/udeshyatyagi.svg)](http://hits.dwyl.com/uddeshyatyagi/uddeshyatyagi)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=uddeshyatyagi" alt="visitor badge"/>
 ### Hola,I'm Uddeshya Tyagi 👋
 
 <!--
@@ -18,4 +20,4 @@ Here are some ideas to get you started:
 [![Gmail](https://img.shields.io/badge/Uddeshya_Tyagi-black?style=flat&logo=Gmail&logoColor=brown&link=https://mail.google.com/mail/u/0/#inbox)](https://mail.google.com/mail/u/0/#inbox)
 [![Instagram](https://img.shields.io/badge/Uddeshya_Tyagi-black?style=flat&logo=Instagram&logoColor=pink&link=https://www.instagram.com/uddeshya_tyagi_/)](https://www.instagram.com/uddeshya_tyagi_/)
 
- <img src="https://visitor-badge.laobi.icu/badge?page_id=uddeshyatyagi" alt="visitor badge"/>
+ 
