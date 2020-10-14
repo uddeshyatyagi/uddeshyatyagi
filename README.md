@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Gmail,Twitter
 - 😄 Pronouns: He/HiM
 
+<img src='https://github-readme-stats.vercel.app/api?username=uddeshyatyagi&&show_icons=true&title_color=ff0000&icon_color=bb2acf&text_color=7fffd4&bg_color=151515'>
+
