@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/uddeshyatyagi/udeshyatyagi.svg)](http://hits.dwyl.com/uddeshyatyagi/uddeshyatyagi)
+[![HitCount](http://hits.dwyl.com/uddeshyatyagi/uddeshyatyagi.svg)](http://hits.dwyl.com/uddeshyatyagi/uddeshyatyagi)
 <img src="https://visitor-badge.laobi.icu/badge?page_id=uddeshyatyagi" alt="visitor badge"/>
 ### Hola,I'm Uddeshya Tyagi 👋
 
